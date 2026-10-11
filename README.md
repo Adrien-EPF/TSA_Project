@@ -40,7 +40,7 @@ It shows a visible upward trend and a strong yearly seasonality (peak in Decembe
 
 ## Report structure
 
-The report is written in the Jupyter notebook `tsa-project.ipynb`:
+The report is written in the Jupyter notebook `TSA-Project - Adrien LETORT.ipynb`:
 
 1. Introduction
 2. Data exploration
